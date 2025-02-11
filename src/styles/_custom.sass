@@ -2,14 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 10%
+    right: 70%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 20%
+    right: 0%
+  &-3
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 65%
+    right: 60%
 
 @keyframes float1
   0%
@@ -17,17 +21,34 @@
 
   100%
     transform: translateY(0px)
-  
+
+@keyframes float2
+  0%
+    transform: translateX(20px)
+
+  100%
+    transform: translateX(0px)
   
 .banner-principal .tarjeta
   background-position: left 50% !important
 
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
+  width: 400px !important
+
+.banner-principal__info
+  @media screen and ( max-width: $bp-max-sm )
+    background-image: url("../assets/curso/portada/fondo-banner-principal1.png")
+    background-size: cover
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img1.png") !important
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important   
+  color: $color-sistema-texto !important   
 
 figcaption
   font-weight: normal
- 
+
+.bg
+  &-c1
+    background-color: #E8F5D5
