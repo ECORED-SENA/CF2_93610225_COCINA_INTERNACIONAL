@@ -222,8 +222,8 @@ export default {
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable Línea de Producción Antioquia',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          cargo: 'Responsable de línea de producción Huila',
+          centro: 'Dirección General',
         },
       ],
     },
@@ -231,29 +231,56 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
+          nombre: 'Henry Oswaldo Acosta Romero',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
           nombre: 'Paola Alexandra Moya',
           cargo: 'Evaluadora instruccional',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
-        },
+        //{
+        //  nombre: 'Nombre responsable',
+        //  cargo: 'Diseñador de contenidos',
+        //  centro: 'Centro XYZ - Regional XYZ',
+        //},
         {
           nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniela Muñoz Bedoya',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Andrés Felipe Guevara Ariza',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -261,14 +288,16 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },

@@ -55,7 +55,7 @@ export default {
         },
         {
           id: 2,
-          texto: 'El sashimi se sirve acompañado de:',
+          texto: 'El <i>sashimi</i> se sirve acompañado de:',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -267,7 +267,7 @@ export default {
         {
           id: 9,
           texto:
-            '¿Qué técnica es común en la preparación del chop <i>suey</i>?',
+            '¿Qué técnica es común en la preparación del <i>chop suey</i>?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -283,7 +283,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Fritura profunda..',
+              texto: 'Fritura profunda.',
               esCorrecta: false,
             },
             {

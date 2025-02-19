@@ -50,27 +50,27 @@
                   .p-4
                     ul.lista-ul--color
                       li.d-flex
-                        i.fas.fa-brain.txt--green
+                        i.far.fa-arrow-alt-circle-right
                         |
                         p.mb-0 Arroz #[i gohan] (especial para sushi): 453,592 g.
                       li.d-flex
-                        i.fas.fa-brain.txt--green
+                        i.far.fa-arrow-alt-circle-right
                         |
                         p.mb-0 Vinagre blanco: 100 ml.
                       li.d-flex
-                        i.fas.fa-brain.txt--green
+                        i.far.fa-arrow-alt-circle-right
                         |
                         p.mb-0 Agua: 250 ml.
                       li.d-flex
-                        i.fas.fa-brain.txt--green
+                        i.far.fa-arrow-alt-circle-right
                         |
                         p.mb-0 Azúcar: 50 g.
                       li.d-flex
-                        i.fas.fa-brain.txt--green
+                        i.far.fa-arrow-alt-circle-right
                         |
                         p.mb-0 Sal: 3 g.
                       li.d-flex
-                        i.fas.fa-brain.txt--green
+                        i.far.fa-arrow-alt-circle-right
                         |
                         p.mb-0 Alga #[i kombu]: 20 g.
             .col-lg-6(data-aos="fade-left")
@@ -82,23 +82,23 @@
                   .p-4
                     ul.lista-ul--color
                       li.d-flex
-                        i.fas.fa-brain.txt--green
+                        i.far.fa-arrow-alt-circle-right
                         |
                         p.mb-0 Salmón fresco: 200 g.
                       li.d-flex
-                        i.fas.fa-brain.txt--green
+                        i.far.fa-arrow-alt-circle-right
                         |
                         p.mb-0 Aguacate: 200 g.
                       li.d-flex
-                        i.fas.fa-brain.txt--green
+                        i.far.fa-arrow-alt-circle-right
                         |
                         p.mb-0 Pepino: 100 g.
                       li.d-flex
-                        i.fas.fa-brain.txt--green
+                        i.far.fa-arrow-alt-circle-right
                         |
                         p.mb-0 Queso crema: 350 g.
                       li.d-flex
-                        i.fas.fa-brain.txt--green
+                        i.far.fa-arrow-alt-circle-right
                         |
                         p.mb-0 Alga #[i nori]: 10 hojas.
     p.mb-4(data-aos="fade-right") Los pasos para su preparación son:
