@@ -79,7 +79,7 @@
               .p-4.bg-c7
                 .row.align-items-center.justify-content-center
                   .col-lg-6.order-2.order-lg-1(data-aos="fade-right")
-                    p #[b Los pasos para su preparación son:]
+                    p #[b Los ingredientes son:]
                     ol.lista-ol--cuadro.ms-3
                       li.d-flex
                         .lista-ol--cuadro__vineta.v--green

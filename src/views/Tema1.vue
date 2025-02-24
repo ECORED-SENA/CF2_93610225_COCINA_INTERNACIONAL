@@ -175,7 +175,7 @@
               .row
                 .col-12.align-items-center.h-100
                   .p-4.bg-c1
-                    p #[b Los pasos para su preparación son:]
+                    p #[b Los ingredientes son:]
                     ol.lista-ol--cuadro.ms-3
                       li.d-flex
                         .lista-ol--cuadro__vineta.v--green
@@ -210,6 +210,7 @@
             .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/tema1/img6.png', alt='', style="width: 460px").m-auto
+          p.mb-4 Los pasos para su preparación son:
           .row.justify-content-center(data-aos="fade-down")
             .col-sm-6.col-lg-4.mb-4.mb-lg-0
               .p-5.bg-c8.shadow-sm
@@ -245,7 +246,7 @@
             .p-4.bg-c1
               .row.align-items-center.mb-3
                 .col-md-7
-                  p #[b Los pasos para su preparación son:]
+                  p #[b Los ingredientes son:]
                   ol.lista-ol--cuadro.ms-3
                     li.d-flex
                       .lista-ol--cuadro__vineta.v--green
