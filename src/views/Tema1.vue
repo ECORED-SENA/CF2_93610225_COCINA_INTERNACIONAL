@@ -106,7 +106,7 @@
       .col-lg-10
         figure(data-aos="fade-up")
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/3KDDv2LrIcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/gSdDl73ZOEY?si=xV_T56EHqEot3r80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.mb-5
       .col-12.bg-c6(data-aos="fade-left")
         .row.justify-content-center
