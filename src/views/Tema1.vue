@@ -24,7 +24,7 @@
         .px-5
           .row.mb-4.mt-5
             .col-lg-7.order-2.order-lg-1(data-aos="fade-right")
-              p La gastronomía japonesa destaca por su delicadeza, minimalismo y el uso de ingredientes frescos. Algunos de sus platillos más conocidos incluyen:
+              p La gastronomía japonesa se destaca por su delicadeza, minimalismo y el uso de ingredientes frescos. Algunos de sus platillos más conocidos incluyen:
               .row.mb-2.ms-0
                 .col-auto.bg-c3(data-aos="fade-left")
                   .row.align-items-center
@@ -33,7 +33,7 @@
                         img(src='@/assets/curso/tema1/img1.svg', alt='', style='width: 60px')
                     .col
                       h3.mb-0 #[i Sushi]
-              p.mb-4 El término #[i sushi] proviene del japonés: su significa arroz y shi, avinagrado. Originalmente, el #[i sushi] era un método de conservación en el que el pescado de agua dulce se envolvía en arroz cocido, el cual no se consumía. En el siglo XVI, se añadió vinagre al arroz y la preparación evolucionó hasta convertirse en el platillo emblemático que conocemos hoy.
+              p.mb-4 El término #[i sushi] proviene del japonés: significa arroz y shi, avinagrado. Originalmente, el #[i sushi] era un método de conservación en el que el pescado de agua dulce se envolvía en arroz cocido, el cual no se consumía. En el siglo XVI, se añadió vinagre al arroz y la preparación evolucionó hasta convertirse en el platillo emblemático que conocemos hoy.
               p #[b #[i Philadelphia Maki] para 10 personas]
               p El #[i Philadelphia Maki] es un tipo de #[i sushi] que combina la suavidad del queso crema con la frescura del salmón y el aguacate. Esta receta está diseñada para preparar aproximadamente 10 porciones.
               p Los ingredientes son:
@@ -416,7 +416,7 @@
                         .lista-ol--cuadro__vineta.v--green
                           span 4
                         |
-                        p.mb-0 Saltear el pollo en un wok, agregar los vegetales, los fideos y la mezcla restante de salsas con fécula disuelta.
+                        p.mb-0 Saltear el pollo en un #[i wok], agregar los vegetales, los fideos y la mezcla restante de salsas con fécula disuelta.
                     figure
                       img(src='@/assets/curso/tema1/img9.svg', alt='', style="width: 480px").m-auto
     .row.mb-2.ms-0
@@ -435,7 +435,7 @@
         .row.align-items-center.h-100.bg-c1
           .col
             .p-4
-              p.mb-0 El chop suey combina trozos de pollo o cerdo cortados en cubos grandes, salteados en un wok con vegetales como jengibre, zucchini, cebolla, zanahoria, raíces chinas, champiñones y apio. Se realza con salsa soya y pasta de ajo.
+              p.mb-0 El #[i chop suey] combina trozos de pollo o cerdo cortados en cubos grandes, salteados en un #[i wok] con vegetales como jengibre, #[i zucchini], cebolla, zanahoria, raíces chinas, champiñones y apio. Se realza con salsa soya y pasta de ajo.
     .row.mb-2.ms-0
       .col-auto.bg-c3(data-aos="fade-left")
         .row.align-items-center

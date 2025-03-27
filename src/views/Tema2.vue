@@ -110,7 +110,7 @@
                         .lista-ol--cuadro__vineta.v--green
                           span 6
                         |
-                        p.mb-0 Paprika: al gusto.
+                        p.mb-0 #[i Paprika]: al gusto.
                   .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
                     figure
                       img(src='@/assets/curso/tema2/img3.png', alt='', style='width: 460px').m-auto
@@ -135,7 +135,7 @@
               .p-5.bg-c8.shadow-sm
                 figure.mb-3
                   img(src='@/assets/curso/tema2/img1.svg', alt='', style="width: 100px").m-auto
-                p.text-center.mb-0 Decorar con paprika y servir con pan árabe.
+                p.text-center.mb-0 Decorar con #[i paprika] y servir con pan árabe.
     .row.mb-2.ms-0
       .col-auto.bg-c3(data-aos="fade-left")
         .row.align-items-center
@@ -319,7 +319,7 @@
               .p-5.bg-c8.shadow-sm
                 figure.mb-3
                   img(src='@/assets/curso/tema1/img7.svg', alt='', style="width: 100px").m-auto
-                p.text-center.mb-0 Servir frío como entrada o acompañamiento.
+                p.text-center.mb-0 Servir frío, como entrada o acompañamiento.
     Separador
     #t_2_2
     .titulo-segundo.color-acento-contenido.mb-0
